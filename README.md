@@ -1,3 +1,3 @@
 # Nasruddins-Portfolio
-```from code download zip file```
+```From code download zip file```
 <br>```extract the file```
